@@ -1,0 +1,20 @@
+{
+  "name": "intro-to-backend",
+  "version": "1.0.0",
+  "description": "Introduction to Backend Web Development - Node.js, Express, and MongoDB",
+  "private": true,
+  "scripts": {
+    "start": "npm --prefix Backend start",
+    "dev": "npm --prefix Backend run dev",
+    "install:all": "npm --prefix Backend install"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mongodb",
+    "mongoose",
+    "crud"
+  ],
+  "author": "ssadhya21",
+  "license": "ISC"
+}
